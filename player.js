@@ -1,5 +1,5 @@
 // URL video pertama yang akan ditampilkan saat halaman dimuat
-const videoPertama = 'https://canhabsyi.github.io/plyr/?url=https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd&keyId=d84c325f36814f39bbe59080272b10c3&key=550727de4c96ef1ecff874905493580f';
+const videoPertama = 'https://live.sportsnews.id/p/spotv1.html';
 
 // Atur video pertama saat halaman dimuat
 document.addEventListener('DOMContentLoaded', function() {
